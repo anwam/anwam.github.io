@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Billy</h1>
-<h3 align="center">A backend developer in NestJS</h3>
+# Hi 👋
+I'm Bill, a 4-year experienced backend developer in NodeJS with Javascript and Typescript.
+I've been learning Golang, distributed systems, High-Availability systems, and others in the DevOps field.
 
-- 🌱 currently learning **Golang** and **Rust**
-
-- 📫 Reach me by **dev.anuwong@gmail.com**
+📫 email for contact: dev.anuwong@gmail.com
