@@ -15,6 +15,7 @@ git checkout -b gh-pages
 git add -A
 git commit -m "deploy"
 
+# force push to gh-pages branch
 git push -f https://github.com/anwam/anwam.github.io.git gh-pages
 
 cd -
