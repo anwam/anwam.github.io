@@ -23,7 +23,7 @@ function App() {
       <main className="relative container mx-auto h-full bg-slate-800">
         <h1>anuwong profile</h1>
         <p className="text-2xl">this area should contain details</p>
-        <p className="text-xl">also details but smaller</p>
+        <p className="text-xl">also details but smallerr</p>
         <div className="my-4">
           <h2>action zone</h2>
           <div className="block w-fit">

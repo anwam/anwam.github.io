@@ -10,7 +10,7 @@ pnpm run build
 cd dist
 
 git init
-git check -b main
+git checkout -b gh-pages
 git add -A
 git commit -m "deploy"
 
