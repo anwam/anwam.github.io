@@ -3,6 +3,7 @@
 # abort on error
 set -e
 
+rm -rf dist
 # build
 pnpm run build
 
@@ -14,6 +15,6 @@ git checkout -b gh-pages
 git add -A
 git commit -m "deploy"
 
-git push -f git@github.com:anwam/anwam.github.io.git gh-pages
+git push -f https://github.com/anwam/anwam.github.io.git gh-pages
 
 cd -
